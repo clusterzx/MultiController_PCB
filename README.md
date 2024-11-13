@@ -22,7 +22,6 @@ Dieses Dokument fasst die finalen Funktionen und Änderungen für das Multicontr
    - USB-C als primäre Stromquelle mit Power Delivery (PD) für 12V.
    - Step-Down-Konverter auf 5V und ein LDO (Low Dropout Regulator) auf 3.3V.
    - Optionaler Boost-Konverter für zusätzliche 12V, falls mehr Leistung benötigt wird.
-   - **Micro-USB-Anschluss** nur zum Programmieren (nicht bestückt in der finalen Kundenversion).
 
 2. **RJ14-Anschlüsse (6P4C)**:
    - Steuerung von Geräten über PWM und GND.
