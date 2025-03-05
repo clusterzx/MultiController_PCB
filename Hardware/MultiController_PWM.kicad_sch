@@ -2865,7 +2865,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91255ac7-d6b3-4661-8096-23405e55a2b0")
-		(property "Reference" "T1"
+		(property "Reference" "Q5"
 			(at 81.28 67.3099 0)
 			(effects
 				(font
@@ -2919,7 +2919,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C5362112"
+		(property "JLCPCB Part #" "C5362112 BSS138DW "
 			(at 77.47 68.58 0)
 			(effects
 				(font
@@ -2949,11 +2949,11 @@
 		(instances
 			(project "MultiController"
 				(path "/252b555a-4cc8-4589-b58e-954efba9866f/5116a6a3-69cf-4233-b4f0-64a72a90e758"
-					(reference "T2")
+					(reference "Q6")
 					(unit 1)
 				)
 				(path "/252b555a-4cc8-4589-b58e-954efba9866f/ee0a951e-5eb3-4549-b988-1631d3ca164d"
-					(reference "T1")
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -3041,7 +3041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9613d89b-e01f-4fb6-97ec-e0a08144cc11")
-		(property "Reference" "T1"
+		(property "Reference" "Q5"
 			(at 80.01 126.9999 0)
 			(effects
 				(font
@@ -3095,7 +3095,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C5362112"
+		(property "JLCPCB Part #" "C5362112 BSS138DW "
 			(at 76.2 128.27 0)
 			(effects
 				(font
@@ -3125,11 +3125,11 @@
 		(instances
 			(project "MultiController"
 				(path "/252b555a-4cc8-4589-b58e-954efba9866f/5116a6a3-69cf-4233-b4f0-64a72a90e758"
-					(reference "T2")
+					(reference "Q6")
 					(unit 2)
 				)
 				(path "/252b555a-4cc8-4589-b58e-954efba9866f/ee0a951e-5eb3-4549-b988-1631d3ca164d"
-					(reference "T1")
+					(reference "Q5")
 					(unit 2)
 				)
 			)
