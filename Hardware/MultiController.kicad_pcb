@@ -5119,7 +5119,7 @@
 				)
 			)
 		)
-		(property "Value" "LM358"
+		(property "Value" "TS912"
 			(at 0 3.4 0)
 			(layer "F.Fab")
 			(uuid "0f8d53fe-3a08-4e7b-adb7-9b8eb87e0c87")
@@ -5130,7 +5130,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+		(property "Datasheet" "www.st.com/resource/en/datasheet/ts912.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5142,7 +5142,7 @@
 				)
 			)
 		)
-		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+		(property "Description" "Dual Rail-to-rail CMOS Operational Amplifier, DIP-8/SOIC-8"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6263,7 +6263,7 @@
 			(net 42 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "77ce4848-b68e-4d25-ade2-cb59a9d84245")
+			(uuid "b51ffe84-e39a-43bf-878a-67f6806418d0")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.105 180)
@@ -6275,7 +6275,7 @@
 			(net 42 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "77ce4848-b68e-4d25-ade2-cb59a9d84245")
+			(uuid "5d054bb1-02fa-4ff7-8cb1-6195bfcfc1a0")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.075 180)
@@ -6287,7 +6287,7 @@
 			(net 42 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "77ce4848-b68e-4d25-ade2-cb59a9d84245")
+			(uuid "6b20ba4c-2b6f-425a-bceb-f6357b7743d6")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_XKB_U262-16XN-4BVC11.wrl"
@@ -11640,7 +11640,7 @@
 			(net 42 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "bed663ad-52f9-4987-b111-56f6f6171b42")
+			(uuid "78e1102a-b802-4e9f-bc51-7027fd7462b6")
 		)
 		(pad "41" smd rect
 			(at -2.9 0.86 180)
@@ -11649,7 +11649,7 @@
 			(net 42 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "bed663ad-52f9-4987-b111-56f6f6171b42")
+			(uuid "0bef577e-c2d9-45bc-81b2-f6f0201b2679")
 		)
 		(pad "41" smd rect
 			(at -2.9 0.86 180)
@@ -11658,7 +11658,7 @@
 			(net 42 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "bed663ad-52f9-4987-b111-56f6f6171b42")
+			(uuid "3599ab22-4d08-4d2e-849f-d627f523de76")
 		)
 		(pad "41" smd rect
 			(at -1.5 -1.94 180)
@@ -11667,7 +11667,7 @@
 			(net 42 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "bed663ad-52f9-4987-b111-56f6f6171b42")
+			(uuid "3a4b2174-b13c-4ce7-af9f-0196b07ecbad")
 		)
 		(pad "41" smd rect
 			(at -1.5 -1.94 180)
@@ -11676,7 +11676,7 @@
 			(net 42 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "bed663ad-52f9-4987-b111-56f6f6171b42")
+			(uuid "cf654390-f7bc-4e20-94d8-7e80eb1335ae")
 		)
 		(pad "41" smd rect
 			(at -1.5 -0.54 180)
@@ -11685,7 +11685,7 @@
 			(net 42 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "bed663ad-52f9-4987-b111-56f6f6171b42")
+			(uuid "bf8b2ac6-5f79-4187-b4e3-c3db72b1d9d3")
 		)
 		(pad "41" smd rect
 			(at -1.5 0.86 180)
@@ -11694,7 +11694,7 @@
 			(net 42 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "bed663ad-52f9-4987-b111-56f6f6171b42")
+			(uuid "6a71bd78-d22f-41c3-8e00-1ebeea9bd4b1")
 		)
 		(pad "41" smd rect
 			(at -0.1 -1.94 180)
@@ -11703,7 +11703,7 @@
 			(net 42 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "bed663ad-52f9-4987-b111-56f6f6171b42")
+			(uuid "567cd359-ae0b-48fb-8983-fd7212112080")
 		)
 		(pad "41" smd rect
 			(at -0.1 -0.54 180)
@@ -11712,7 +11712,7 @@
 			(net 42 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "bed663ad-52f9-4987-b111-56f6f6171b42")
+			(uuid "c0224937-c3c0-48bc-8ecd-024cd39f50f3")
 		)
 		(pad "41" smd rect
 			(at -0.1 0.86 180)
@@ -11721,7 +11721,7 @@
 			(net 42 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "bed663ad-52f9-4987-b111-56f6f6171b42")
+			(uuid "77233678-7e29-44f1-b239-092c542de518")
 		)
 		(zone
 			(net 0)
@@ -19055,7 +19055,7 @@
 				)
 			)
 		)
-		(property "Value" "LM358"
+		(property "Value" "TS912"
 			(at 0 3.4 0)
 			(layer "F.Fab")
 			(uuid "d62c7805-5be4-4834-9eb5-b0734a87b860")
@@ -19066,7 +19066,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+		(property "Datasheet" "www.st.com/resource/en/datasheet/ts912.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19078,7 +19078,7 @@
 				)
 			)
 		)
-		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+		(property "Description" "Dual Rail-to-rail CMOS Operational Amplifier, DIP-8/SOIC-8"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)

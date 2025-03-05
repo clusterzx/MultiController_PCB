@@ -5,7 +5,7 @@
 	(uuid "e357006b-947e-45e1-b6a0-f8cc6037567c")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Amplifier_Operational:LM358"
+		(symbol "Amplifier_Operational:TS912"
 			(pin_names
 				(offset 0.127)
 			)
@@ -21,7 +21,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "LM358"
+			(property "Value" "TS912"
 				(at 0 -5.08 0)
 				(effects
 					(font
@@ -39,7 +39,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+			(property "Datasheet" "www.st.com/resource/en/datasheet/ts912.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -48,7 +48,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+			(property "Description" "Dual Rail-to-rail CMOS Operational Amplifier, DIP-8/SOIC-8"
 				(at 0 0 0)
 				(effects
 					(font
@@ -83,7 +83,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "LM358_1_1"
+			(symbol "TS912_1_1"
 				(polyline
 					(pts
 						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
@@ -151,7 +151,7 @@
 					)
 				)
 			)
-			(symbol "LM358_2_1"
+			(symbol "TS912_2_1"
 				(polyline
 					(pts
 						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
@@ -219,7 +219,7 @@
 					)
 				)
 			)
-			(symbol "LM358_3_1"
+			(symbol "TS912_3_1"
 				(pin power_in line
 					(at -2.54 7.62 270)
 					(length 3.81)
@@ -1777,7 +1777,7 @@
 		(uuid "b4ed9ed9-4350-4b2e-a13c-f1e5e1ff07c5")
 	)
 	(symbol
-		(lib_id "Amplifier_Operational:LM358")
+		(lib_id "Amplifier_Operational:TS912")
 		(at 100.33 102.87 0)
 		(unit 2)
 		(exclude_from_sim no)
@@ -1794,7 +1794,7 @@
 				)
 			)
 		)
-		(property "Value" "LM358"
+		(property "Value" "TS912"
 			(at 100.33 95.25 0)
 			(effects
 				(font
@@ -1811,7 +1811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+		(property "Datasheet" "www.st.com/resource/en/datasheet/ts912.pdf"
 			(at 100.33 102.87 0)
 			(effects
 				(font
@@ -1820,7 +1820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+		(property "Description" "Dual Rail-to-rail CMOS Operational Amplifier, DIP-8/SOIC-8"
 			(at 100.33 102.87 0)
 			(effects
 				(font
@@ -1829,7 +1829,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LM358DT"
+		(property "MPN" "TS912IDT"
 			(at 100.33 102.87 0)
 			(effects
 				(font
@@ -1838,7 +1838,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C9418"
+		(property "JLCPCB Part #" "C73655"
 			(at 100.33 102.87 0)
 			(effects
 				(font
@@ -1959,7 +1959,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Amplifier_Operational:LM358")
+		(lib_id "Amplifier_Operational:TS912")
 		(at 203.2 83.82 0)
 		(unit 3)
 		(exclude_from_sim no)
@@ -1968,7 +1968,7 @@
 		(dnp no)
 		(uuid "18656e1b-dc48-432b-979c-c86e1a715ffd")
 		(property "Reference" "U5"
-			(at 201.93 82.5499 0)
+			(at 203.2 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1976,8 +1976,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LM358"
-			(at 201.93 85.0899 0)
+		(property "Value" "TS912"
+			(at 203.2 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1994,7 +1994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+		(property "Datasheet" "www.st.com/resource/en/datasheet/ts912.pdf"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -2003,7 +2003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+		(property "Description" "Dual Rail-to-rail CMOS Operational Amplifier, DIP-8/SOIC-8"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -2012,7 +2012,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LM358DT"
+		(property "MPN" "TS912IDT"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -2021,7 +2021,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C9418"
+		(property "JLCPCB Part #" "C73655"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -3354,7 +3354,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Amplifier_Operational:LM358")
+		(lib_id "Amplifier_Operational:TS912")
 		(at 101.6 43.18 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3371,7 +3371,7 @@
 				)
 			)
 		)
-		(property "Value" "LM358"
+		(property "Value" "TS912"
 			(at 101.6 35.56 0)
 			(effects
 				(font
@@ -3388,7 +3388,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+		(property "Datasheet" "www.st.com/resource/en/datasheet/ts912.pdf"
 			(at 101.6 43.18 0)
 			(effects
 				(font
@@ -3397,7 +3397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8"
+		(property "Description" "Dual Rail-to-rail CMOS Operational Amplifier, DIP-8/SOIC-8"
 			(at 101.6 43.18 0)
 			(effects
 				(font
@@ -3406,7 +3406,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LM358DT"
+		(property "MPN" "TS912IDT"
 			(at 101.6 43.18 0)
 			(effects
 				(font
@@ -3415,7 +3415,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C9418"
+		(property "JLCPCB Part #" "C73655"
 			(at 101.6 43.18 0)
 			(effects
 				(font
