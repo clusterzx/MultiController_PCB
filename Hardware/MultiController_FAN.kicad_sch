@@ -1799,7 +1799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2891247b-833d-4836-bdf3-95e8e017d943")
-		(property "Reference" "T3"
+		(property "Reference" "Q2"
 			(at 141.224 96.012 0)
 			(effects
 				(font
@@ -1865,7 +1865,7 @@
 		(instances
 			(project "MultiController"
 				(path "/252b555a-4cc8-4589-b58e-954efba9866f/aa8c233b-0c9b-48fe-86f0-efaaac17244a"
-					(reference "T3")
+					(reference "Q2")
 					(unit 2)
 				)
 			)
@@ -2242,7 +2242,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d5bec778-7c46-4950-b037-7a6d9c944412")
-		(property "Reference" "T3"
+		(property "Reference" "Q2"
 			(at 118.618 99.06 0)
 			(effects
 				(font
@@ -2308,7 +2308,7 @@
 		(instances
 			(project "MultiController"
 				(path "/252b555a-4cc8-4589-b58e-954efba9866f/aa8c233b-0c9b-48fe-86f0-efaaac17244a"
-					(reference "T3")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
