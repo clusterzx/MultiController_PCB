@@ -1,0 +1,37 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,JLCPCB Part #
+"C1, C12, C13",3,22u,C_0805_2012Metric,,,,smt,"Unpolarized capacitor, small symbol",
+"C10, C6, C7, C8, C9",5,10u,C_0603_1608Metric,,,,smt,"Unpolarized capacitor, small symbol",
+"C11, C16, C19, C2, C4",5,100n,C_0603_1608Metric,,,,smt,"Unpolarized capacitor, small symbol",
+"C14, C3",2,1u,C_0603_1608Metric,,,,smt,"Unpolarized capacitor, small symbol",
+"C15, C17, C18, C20",4,2u2,C_0603_1608Metric,,,,smt,"Unpolarized capacitor, small symbol",
+C5,1,22p,C_0603_1608Metric,,,,smt,"Unpolarized capacitor, small symbol",
+D1,1,KT-0603R,LED_0603_1608Metric,,KT-0603R,,smt,"Light emitting diode, small symbol",C2286
+J1,1,PC-Fan,Molex_KK-254_0470531000_1x04_P2.54mm_Vertical,,0470531000,,tht,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",C3025061
+J2,1,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_XKB_U262-16XN-4BVC11,,U262-161N-4BVC11 ,,smt,USB 2.0-only 16P Type-C Receptacle connector,C319148
+"J3, J4, J5, J7",4,6P4C,RJ14_Connfly_DS1133-S4_Horizontal,,DS1133-S40BPX,,tht,"RJ connector, 6P4C (6 positions 4 connected), RJ13/RJ14",C77856
+J6,1,OLED,PinSocket_1x04_P2.54mm_Vertical_SMD_drill_Pin1Right,,BG306-04-A-1-0400-L-B ,,smt,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",C7219867
+J8,1,Screw_Terminal_01x04,"TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal",,1984633,,tht,"Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",
+L1,1,4.7uH,L_Wuerth_HCI-5040,,744316470,,smt,"Inductor, small symbol",C2651181
+Q1,1,BSS83P,SOT-23,,BSS83PH6327,,smt,"-0.33A Id, -60V Vds, P-Channel MOSFET, SOT-23",C2932927
+Q2,1,BSS138,SOT-23,,C5224267,,smt,"50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23",BSS138BK
+Q3,1,DMN3008SFG,Diodes_PowerDI3333-8,,DMN3008SFG-7 ,,smt,"17.6A Id, 30V Vds, N-Channel Power MOSFET, 4.4mOhm Ron, 86nC Qg (typ), PowerDI3333-8",C384563
+Q4,1,AP30P30Q,Diodes_PowerDI3333-8,,AP30P30Q,,smt,"P-MOSFET 30A, 30V, 10mOhm",C471913
+"R1, R8",2,100k,R_0603_1608Metric,,,,smt,"Resistor, small symbol",
+"R10, R17, R18, R2, R21, R22, R25, R26, R29, R30, R33, R5",12,10k,R_0603_1608Metric,,,,smt,"[R5]Resistor, small symbol; [R33]Resistor",
+R11,1,49k9,R_0603_1608Metric,,,,smt,"Resistor, small symbol",
+R12,1,10r,R_0603_1608Metric,,,,smt,"Resistor, small symbol",
+"R13, R6, R7",3,5k1,R_0603_1608Metric,,,,smt,"Resistor, small symbol",
+"R14, R15",2,0r,R_0603_1608Metric,,,,smt,"Resistor, small symbol",
+R16,1,14k,R_0603_1608Metric,,,,smt,"Resistor, small symbol",
+"R19, R23, R27, R31",4,1k,R_0603_1608Metric,,,,smt,"Resistor, small symbol",
+"R20, R24, R28, R32",4,20k,R_0603_1608Metric,,,,smt,Resistor,
+"R3, R4",2,2k2,R_0603_1608Metric,,,,smt,"Resistor, small symbol",
+R9,1,52k3,R_0603_1608Metric,,,,smt,"Resistor, small symbol",
+SW1,1,RESET,SW_Push_1P1T-SH_NO_CK_KMR2xxG,,KMR221GLFS,,smt,"Generic push-button switch, two contact pins and shield pin(s)",C72443
+SW2,1,BOOT,SW_Push_1P1T-SH_NO_CK_KMR2xxG,,KMR221GLFS,,smt,"Generic push-button switch, two contact pins and shield pin(s)",C72443
+"T1, T2",2,BSS138DW,SOT-363_SC-70-6,,BSS138DW,,smt,,C5362112
+U1,1,ESP32-S3-WROOM-1,ESP32-S3-WROOM-1,,ESP32-S3-WROOM-1-N8R8,,smt,"2.4 GHz WiFi (802.11 b/g/n) and Bluetooth ® 5 (LE) module Built around ESP32S3 series of SoCs, Xtensa ® dualcore 32bit LX7 microprocessor Flash up to 16 MB, PSRAM up to 8 MB 36 GPIOs, rich set of peripherals Onboard PCB antenna",C2913201
+U2,1,TPS562202,SOT-563,,TPS562202,,smt,"2A Synchronous Step-Down Voltage Regulator 580kHz, adjustable output voltage, 4.5-17V Input Voltage, 0.804V-7V Output Voltage, SOT-563",C2877547
+U3,1,AP2112K-3.3,SOT-23-5,,AP2112K-3.3TRG1 ,,smt,"600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5",C51118
+U4,1,HUSB238,DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm,,HUSB238_002DD,,smt,"USB Type-C PD3.1 Sink Controller, DFN-10L",C7471904
+"U5, U6",2,LM358,SOIC-8_3.9x4.9mm_P1.27mm,,LM358DT,,smt,"Low-Power, Dual Operational Amplifiers, DIP-8/SOIC-8/TO-99-8",C9418

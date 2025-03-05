@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MultiController_customSYM")(type "KiCad")(uri "${KIPRJMOD}/MultiController_customSYM.kicad_sym")(options "")(descr ""))
+)
